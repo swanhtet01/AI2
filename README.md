@@ -4,4 +4,4 @@ Machine Learning  with sklearn
 
 Assignment1 - Column Transformers, Pipelines
 
-Assignment2 - Gridsearch and Cross-validation
+Assignment2 - Cross-validation, Hyper-parameterss, GridsearchCV
